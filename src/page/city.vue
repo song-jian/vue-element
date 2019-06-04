@@ -1,6 +1,5 @@
 <template>
     <div class="box">
-       sss
        <div class="excel_container">
             <el-button type="success" icon='document' size="mini" @click='exportToExcel()'>导出excel</el-button>
        </div>
